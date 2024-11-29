@@ -86,7 +86,7 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 ## Projects
 
-
+![Data Engineering Pipeline for YouTube Trending Analysis](assets/DE.jpeg)
 
 ## Data Engineering Pipeline for YouTube Trending Analysis – [Glue | Lambda | Athena] – [GitHub, QuickSight] Nov 2024  
 
