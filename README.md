@@ -64,6 +64,9 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 ## Professional Experience
 
+![Velera](assets/velera.png)
+assets/Velera.png
+
 ### Velera, Dallas, Texas  
 **Data Analytics Intern**  
 *Jun 2024 – Aug 2024*
