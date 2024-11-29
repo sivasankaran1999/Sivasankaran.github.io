@@ -1,4 +1,4 @@
-## Connect with Me
+## Connect
 
 [<img src="assets/linkedin.webp" alt="LinkedIn" width="50">](https://www.linkedin.com/in/sivasankaran-rajasekaran/)
 
