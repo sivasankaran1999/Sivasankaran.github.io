@@ -107,6 +107,9 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Enhanced AtliQ Mart's service capacity by **9%** by analyzing patterns in delivery fulfillment ratios, leading to improvements in metrics like on-time and in-full delivery and overall customer satisfaction.
 - Identified **27% potential cost savings** during the expansion phase by leveraging data-driven insights to support informed decision-making.
 
+### View Interactive Dashboards:
+- [Supply Chain Analysis Dashboard 1](https://public.tableau.com/app/profile/sivasankaran.rajasekaran/viz/Supply_chain_analysis/Dashboard1)
+- [Supply Chain Analysis Dashboard 2](https://public.tableau.com/app/profile/sivasankaran.rajasekaran/viz/Supply_chain_analysis/Dashboard2)
 ---
 
 ### Sales Performance Analysis – Brick & Mortar  
