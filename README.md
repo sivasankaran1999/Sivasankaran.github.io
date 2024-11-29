@@ -155,6 +155,8 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 ## Skills
 
+![Skills Image](assets/Skills.jpeg)
+
 ### Programming:
 - SQL, Python (NumPy, Pandas, Matplotlib, Scikit-learn), R Studio, SAS
 
