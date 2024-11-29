@@ -73,5 +73,15 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Led a project to optimize resource allocation by developing a time tracking system that accurately captured and analyzed team members' projected and actual work hours, enhancing project management efficiency.  
 - Implemented a weekly projection system for team members to submit their projected time, enabling workload management by identifying and rebalancing overburdened and underutilized team members.  
 - Designed Power BI visuals, including tabular reports, clustered columns, and dual gauges, to monitor time allocation against a 70% utilization target, improving resource distribution by 23%.  
-- Built an incremental data refresh system in Power BI to update team availability weekly, leveraging DAX measures and M code to automatically display the latest week's data, ensuring timely insights.  
+- Built an incremental data refresh system in Power BI to update team availability weekly, leveraging DAX measures and M code to automatically display the latest week's data, ensuring timely insights.
+
+
+### Larsen & Toubro Infotech, Chennai, India  
+**Software Engineer – VISA and Mastercard**  
+*Jan 2021 – Oct 2021*  
+
+- Spearheaded database management of clients' bank records by revamping credit card encryption pipelines, including CVV and PIN generation, resulting in a 26% increase in credit card approvals.  
+- Reduced customer transaction failure errors by 32% by analyzing transactional failure occurrences in IBM DB2 database and formulating SQL queries to generate root cause analysis reports.  
+- Documented end-to-end process flow of the credit approval pipeline, including Entity Relationship Diagrams (ERDs) of databases and cost estimates per thousand approvals, using Atlassian tools and Confluence.  
+
 
