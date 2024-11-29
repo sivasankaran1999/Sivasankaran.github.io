@@ -86,52 +86,57 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 ## Projects
 
+### Data Engineering Pipeline for YouTube Trending Analysis – [Glue | Lambda | Athena] – [GitHub, QuickSight] Nov 2024
+
 ![AWS Data Pipeline](assets/AWS.webp)
 
-## Data Engineering Pipeline for YouTube Trending Analysis – [Glue | Lambda | Athena] – [GitHub, QuickSight] Nov 2024  
+- Utilized **AWS CLI** to upload and manage raw YouTube video data in **Amazon S3**, building a robust data pipeline to analyze key factors like views, comments, and likes that contribute to trending video analysis for advertising.
+- Engineered **AWS Glue** crawlers to catalog datasets, automate schema detection, and enable structured querying in **AWS Athena**, while deploying **Lambda** triggers to preprocess and convert raw JSON data into optimized **Parquet** format.
+- Integrated cleaned datasets into **QuickSight** to create interactive dashboards, providing data-driven insights and visualizations to support decision-making.
 
-[GitHub - AWS Data Engineering Project](https://github.com/sivasankaran1999/AWS-Data-Engineering-Project)
+[GitHub - AWS Data Engineering Project](https://github.com/sivasankaran1999/AWS-Data-Engineering-Project)  
+[Quicksight Report](https://drive.google.com/file/d/1jxcteHnw27qovch_wNqJvylsRCwjnBRQ/view)
 
-[Quicksight](https://drive.google.com/file/d/1jxcteHnw27qovch_wNqJvylsRCwjnBRQ/view)
+---
 
-
-- Utilized **AWS CLI** to upload and manage raw YouTube video data in **Amazon S3**, building a robust data pipeline to analyze key factors like views, comments, and likes that contribute to trending video analysis for advertising.  
-- Engineered **AWS Glue** crawlers to catalog datasets, automate schema detection, and enable structured querying in **AWS Athena**, while deploying **Lambda** triggers to preprocess and convert raw JSON data into optimized **Parquet** format.  
-- Integrated cleaned datasets into **QuickSight** to create interactive dashboards, providing data-driven insights and visualizations to support decision-making.  
-
+### Supply Chain Data Analytics – FMCG Domain
 
 ![Supply Chain Analytics Dashboard](assets/supplychain.png)
 
-## Supply Chain Data Analytics – FMCG Domain  
+- Achieved a **92% issue resolution accuracy** in service levels at AtliQ Mart in the FMCG domain by creating interactive dashboards with key performance indicators (KPIs) such as **Line-fill-rate (LOFR%)** and **Volume-fill-rate (VOFR%)**.
+- Enhanced AtliQ Mart's service capacity by **9%** by analyzing patterns in delivery fulfillment ratios, leading to improvements in metrics like on-time and in-full delivery and overall customer satisfaction.
+- Identified **27% potential cost savings** during the expansion phase by leveraging data-driven insights to support informed decision-making.
 
-- Achieved a **92% issue resolution accuracy** in service levels at AtliQ Mart in the FMCG domain by creating interactive dashboards with key performance indicators (KPIs) such as Line-fill-rate (LOFR%) and Volume-fill-rate (VOFR%).  
-- Enhanced AtliQ Mart's service capacity by **9%** by analyzing patterns in delivery fulfillment ratios, leading to improvements in metrics like on-time and in-full delivery and overall customer satisfaction.  
-- Identified **27% potential cost savings** during the expansion phase by leveraging data-driven insights to support informed decision-making.  
+---
+
+### Sales Performance Analysis – Brick & Mortar  
+**[Power BI | SQL]**  
+*BI 360, Sales Insights, Profit Analysis | Jun 2023*
 
 ![Sales Performance Analysis Dashboard](assets/financial.jpeg)
 
-## Sales Performance Analysis – Brick & Mortar  
-**[Power BI | SQL]**  
-*BI 360, Sales Insights, Profit Analysis | Jun 2023*  
+- Increased sales potential by **18%** by identifying high-profit markets through **P&L** statements and **gross margin analysis**, leading to potential market expansion, improved customer experience, and targeted strategy marketing.
+- Optimized dashboard performance and visuals by leveraging **stored procedures, triggers, functions,** and **common table expressions (CTEs)** for efficient data handling.
+- Enabled end users to identify key pain points, resulting in a **15% increase in sales trends** and a **14% enhancement in strategy effectiveness**, aligning with a projected **7% revenue boost** in the next quarter.
 
-- Increased sales potential by **18%** by identifying high-profit markets through P&L statements and gross margin analysis, leading to potential market expansion, improved customer experience, and targeted strategy marketing.  
-- Optimized dashboard performance and visuals by leveraging **stored procedures, triggers, functions, and common table expressions (CTEs)** for efficient data handling.  
-- Enabled end users to identify key pain points, resulting in a **15% increase in sales trends** and a **14% enhancement in strategy effectiveness**, aligning with a projected **7% revenue boost** in the next quarter.  
+---
+
+### Sales Data Analysis – Food Industry
 
 ![Sales Data Analysis Dashboard](assets/sales.jpg)
 
-## Sales Data Analysis – Food Industry  
+- Identified sales catalysts, achieving a **39% reduction in bottlenecks** and a **24% improvement in order accuracy** by strategically implementing KPIs to analyze pizza sales data and derive actionable business insights.
+- Leveraged detailed **time-of-day analytics** for pizza sales to identify peak hours, resulting in a **22% surge in sales** through strategic menu optimization and enhanced customer satisfaction.
 
-- Identified sales catalysts, achieving a **39% reduction in bottlenecks** and a **24% improvement in order accuracy** by strategically implementing KPIs to analyze pizza sales data and derive actionable business insights.  
-- Leveraged detailed time-of-day analytics for pizza sales to identify peak hours, resulting in a **22% surge in sales** through strategic menu optimization and enhanced customer satisfaction.  
+---
+
+### Customer Experience Analytics – Airline Industry
 
 ![Customer Experience Analytics Dashboard](assets/flight.png)
 
-## Customer Experience Analytics – Airline Industry  
-
-- Analyzed US airline survey data using advanced statistical and machine learning methods to predict passenger satisfaction and loyalty.  
-- Utilized **K-Nearest Neighbors (KNN)**, **Support Vector Classifier (SVC)**, and **Random Forest** models for predictions, identifying **Random Forest** as the optimal choice with a **96% accuracy** after rigorous model evaluation.  
-- Boosted customer retention by **34%** through actionable insights and targeted improvements in the airline industry.  
+- Analyzed **US airline survey data** using advanced statistical and machine learning methods to predict passenger satisfaction and loyalty.
+- Utilized **K-Nearest Neighbors (KNN)**, **Support Vector Classifier (SVC)**, and **Random Forest** models for predictions, identifying **Random Forest** as the optimal choice with a **96% accuracy** after rigorous model evaluation.
+- Boosted customer retention by **34%** through actionable insights and targeted improvements in the airline industry.
 
 
 
