@@ -60,7 +60,6 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Focused on the design, implementation, and maintenance of data warehouses.
 - Emphasized ETL processes and the integration of BI tools for strategic analysis.
 
-# Experience
 
 ## Professional Experience
 
@@ -84,5 +83,16 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Spearheaded database management of clients' bank records by revamping credit card encryption pipelines, including CVV and PIN generation, resulting in a 26% increase in credit card approvals.  
 - Reduced customer transaction failure errors by 32% by analyzing transactional failure occurrences in IBM DB2 database and formulating SQL queries to generate root cause analysis reports.  
 - Documented end-to-end process flow of the credit approval pipeline, including Entity Relationship Diagrams (ERDs) of databases and cost estimates per thousand approvals, using Atlassian tools and Confluence.  
+
+## Projects
+
+## Supply Chain Data Analytics – FMCG Domain  
+
+- Achieved a **92% issue resolution accuracy** in service levels at AtliQ Mart in the FMCG domain by creating interactive dashboards with key performance indicators (KPIs) such as Line-fill-rate (LOFR%) and Volume-fill-rate (VOFR%).  
+- Enhanced AtliQ Mart's service capacity by **9%** by analyzing patterns in delivery fulfillment ratios, leading to improvements in metrics like on-time and in-full delivery and overall customer satisfaction.  
+- Identified **27% potential cost savings** during the expansion phase by leveraging data-driven insights to support informed decision-making.  
+
+
+
 
 
