@@ -60,3 +60,16 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Focused on the design, implementation, and maintenance of data warehouses.
 - Emphasized ETL processes and the integration of BI tools for strategic analysis.
 
+# Experience
+
+## Professional Experience
+
+### Velera, Dallas, Texas  
+**Data Analytics Intern**  
+*Jun 2024 – Aug 2024*
+
+- Led a project to optimize resource allocation by developing a time tracking system that accurately captured and analyzed team members' projected and actual work hours, enhancing project management efficiency.  
+- Implemented a weekly projection system for team members to submit their projected time, enabling workload management by identifying and rebalancing overburdened and underutilized team members.  
+- Designed Power BI visuals, including tabular reports, clustered columns, and dual gauges, to monitor time allocation against a 70% utilization target, improving resource distribution by 23%.  
+- Built an incremental data refresh system in Power BI to update team availability weekly, leveraging DAX measures and M code to automatically display the latest week's data, ensuring timely insights.  
+
