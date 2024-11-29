@@ -1,10 +1,10 @@
 ## Connect
 
-![UTD Logo](assets/UTD.jpeg){: width="300px" }
+[<img src="assets/linkedin.webp" alt="LinkedIn" width="50">](https://www.linkedin.com/in/sivasankaran-rajasekaran/)
 
 # About
 
-<img src="assets/UTD.jpeg" alt="UTD Logo" height="150">
+<img src="assets/UTD.jpeg" alt="UTD Logo" width="300">
 
 I am a highly accomplished candidate specializing in Business Intelligence, holding a Master of Science in Business Analytics from The University of Texas at Dallas. My academic journey equipped me with advanced skills in statistics, programming for data science, and machine learning, which I have effectively applied in real-world settings.
 
