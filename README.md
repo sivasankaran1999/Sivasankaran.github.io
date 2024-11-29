@@ -10,6 +10,11 @@ I am a Business Intelligence professional with 3 years of experience, holding a 
 
 ## Connect [<img src="assets/linkedin.webp" alt="LinkedIn" width="50">](https://www.linkedin.com/in/sivasankaran-rajasekaran/)
 
+<p align="center">
+  ## Connect <a href="https://www.linkedin.com/in/sivasankaran-rajasekaran/"><img src="assets/linkedin.webp" alt="LinkedIn" width="50"></a>
+</p>
+
+
 
 # Coursework
 
