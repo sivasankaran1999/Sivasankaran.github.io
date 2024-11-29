@@ -12,7 +12,7 @@ I am a Business Intelligence professional with 3 years of experience, holding a 
 
 ![UTD Logo](assets/coursework.png)
 
-# Educational Journey in Business Analytics
+### Educational Journey in Business Analytics
 
 My educational journey is built on a foundation of rigorous coursework designed to develop both theoretical knowledge and practical skills in Business Analytics.
 
