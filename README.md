@@ -64,7 +64,7 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 ## Professional Experience
 
-![Velera](assets/velera.png)
+![Velera](assets/Velera.png)
 assets/Velera.png
 
 ### Velera, Dallas, Texas  
