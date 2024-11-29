@@ -1,5 +1,7 @@
 # About
 
+![UTD Logo](assets/UTD.jpeg)
+
 I am a highly accomplished candidate specializing in Business Intelligence, holding a Master of Science in Business Analytics from The University of Texas at Dallas. My academic journey equipped me with advanced skills in statistics, programming for data science, and machine learning, which I have effectively applied in real-world settings.
 
 During my time as a Software Engineer at Larsen & Toubro Infotech, I demonstrated a strong proficiency in handling data, including executing complex SQL queries and generating accurate reports. My expertise extends to database management systems, particularly IBM DB2, where I have shown my ability to manage and optimize data workflows.
