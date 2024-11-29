@@ -104,6 +104,7 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Optimized dashboard performance and visuals by leveraging **stored procedures, triggers, functions, and common table expressions (CTEs)** for efficient data handling.  
 - Enabled end users to identify key pain points, resulting in a **15% increase in sales trends** and a **14% enhancement in strategy effectiveness**, aligning with a projected **7% revenue boost** in the next quarter.  
 
+![Sales Data Analysis Dashboard](assets/sales.jpg)
 
 ## Sales Data Analysis – Food Industry  
 
