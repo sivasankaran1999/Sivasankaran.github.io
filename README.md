@@ -1,6 +1,5 @@
 
-<h1 style="text-decoration: underline;">About</h1>
-
+#About
 
 ![UTD Logo](assets/JSOM.png)
 
