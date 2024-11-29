@@ -90,6 +90,11 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 ## Data Engineering Pipeline for YouTube Trending Analysis – [Glue | Lambda | Athena] – [GitHub, QuickSight] Nov 2024  
 
+[GitHub - AWS Data Engineering Project](https://github.com/sivasankaran1999/AWS-Data-Engineering-Project)
+
+[Quicksight](https://drive.google.com/file/d/1jxcteHnw27qovch_wNqJvylsRCwjnBRQ/view)
+
+
 - Utilized **AWS CLI** to upload and manage raw YouTube video data in **Amazon S3**, building a robust data pipeline to analyze key factors like views, comments, and likes that contribute to trending video analysis for advertising.  
 - Engineered **AWS Glue** crawlers to catalog datasets, automate schema detection, and enable structured querying in **AWS Athena**, while deploying **Lambda** triggers to preprocess and convert raw JSON data into optimized **Parquet** format.  
 - Integrated cleaned datasets into **QuickSight** to create interactive dashboards, providing data-driven insights and visualizations to support decision-making.  
