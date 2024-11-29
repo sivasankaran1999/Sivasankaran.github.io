@@ -1,5 +1,5 @@
 
-#About
+# About
 
 ![UTD Logo](assets/JSOM.png)
 
