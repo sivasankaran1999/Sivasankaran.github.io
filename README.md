@@ -111,13 +111,19 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 ### Sales Performance Analysis – Brick & Mortar  
 **[Power BI | SQL]**  
-*BI 360, Sales Insights, Profit Analysis | Jun 2023*
 
 ![Sales Performance Analysis Dashboard](assets/financial.jpeg)
 
 - Increased sales potential by **18%** by identifying high-profit markets through **P&L** statements and **gross margin analysis**, leading to potential market expansion, improved customer experience, and targeted strategy marketing.
 - Optimized dashboard performance and visuals by leveraging **stored procedures, triggers, functions,** and **common table expressions (CTEs)** for efficient data handling.
 - Enabled end users to identify key pain points, resulting in a **15% increase in sales trends** and a **14% enhancement in strategy effectiveness**, aligning with a projected **7% revenue boost** in the next quarter.
+
+### Explore the Dashboards:
+- [Sales Insights Dashboard](https://public.tableau.com/app/profile/sivasankaran.rajasekaran/viz/Sales_Insights_16924135293310/Dashboard1)
+- [Profit Analysis Dashboard](https://public.tableau.com/app/profile/sivasankaran.rajasekaran/viz/Sales_Insights_16924135293310/Dashboard2-ProfitAnalysis)
+
+### Report:
+- [Sales Performance Report](https://drive.google.com/file/d/17pCPI23wXF_OOX_RPxjz3gWTCdDhklwT/view)
 
 ---
 
