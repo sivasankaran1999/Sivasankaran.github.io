@@ -86,6 +86,8 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 ## Projects
 
+![Supply Chain Analytics Dashboard](assets/supplychain.png)
+
 ## Supply Chain Data Analytics – FMCG Domain  
 
 - Achieved a **92% issue resolution accuracy** in service levels at AtliQ Mart in the FMCG domain by creating interactive dashboards with key performance indicators (KPIs) such as Line-fill-rate (LOFR%) and Volume-fill-rate (VOFR%).  
