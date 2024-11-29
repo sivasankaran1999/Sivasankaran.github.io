@@ -2,10 +2,7 @@
 
 ![UTD Logo](assets/linkedinbanner.png)
 
-<a href="https://www.linkedin.com/in/sivasankaran-rajasekaran/"><img src="assets/linkedin.webp" alt="LinkedIn" width="50" style="vertical-align: middle; padding-right: 10px;"></a># About
-
-                 
-
+# About <a href="https://www.linkedin.com/in/sivasankaran-rajasekaran/"><img src="assets/linkedin.webp" alt="LinkedIn" width="50" style="vertical-align: middle; padding-left: 10px;"></a>
 
 ![UTD Logo](assets/JSOM.png)
 
