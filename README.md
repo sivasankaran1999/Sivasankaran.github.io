@@ -105,6 +105,13 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Enabled end users to identify key pain points, resulting in a **15% increase in sales trends** and a **14% enhancement in strategy effectiveness**, aligning with a projected **7% revenue boost** in the next quarter.  
 
 
+## Sales Data Analysis – Food Industry  
+
+- Identified sales catalysts, achieving a **39% reduction in bottlenecks** and a **24% improvement in order accuracy** by strategically implementing KPIs to analyze pizza sales data and derive actionable business insights.  
+- Leveraged detailed time-of-day analytics for pizza sales to identify peak hours, resulting in a **22% surge in sales** through strategic menu optimization and enhanced customer satisfaction.  
+
+
+
 
 
 
