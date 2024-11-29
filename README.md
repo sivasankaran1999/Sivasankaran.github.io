@@ -12,21 +12,51 @@ A notable achievement of mine includes streamlining encryption pipelines for maj
 
 ![UTD Logo](assets/UTD.jpeg)
 
+# Educational Journey in Business Analytics
 
 My educational journey is built on a foundation of rigorous coursework designed to develop both theoretical knowledge and practical skills in Business Analytics.
 
- Database Foundations for Business Analytics: Explore fundamental and advanced concepts of database design, focusing on both SQL and NoSQL systems used in modern analytics frameworks.
- Business Analytics with R: Comprehensive exploration of R for robust data manipulation, statistical analysis, and effective graphical representations tailored for real-world business 
- scenarios.
- Professional Development: Focused on developing key professional skills that enhance your capacity in leadership, communication, and project management within the business analytics 
- domain.
- Predictive Analytics for Data Science: Master techniques for constructing predictive models using statistical algorithms, essential for forecasting and optimizing business outcomes.
- Programming for Data Science: Gain solid foundations and advanced programming skills in languages such as Python and R, critical for developing sophisticated data science solutions.
- Big Data: Learn to handle and process large-scale data using cutting-edge technologies and methodologies, with a particular focus on platforms like Hadoop and Spark.
- Cloud Computing Fundamentals: Comprehensive overview of cloud computing services essential for data storage, management, and computation, with practical applications in AWS and Azure.
- Applied Econometrics & Time Series Analysis: Develop expertise in econometric and time series methodologies for economic and financial forecasting, utilizing advanced tools like 
- EViews and Stata.
- Advanced Business Analytics with R: Engage with complex data analysis techniques and prescriptive analytics to solve business problems and enhance decision-making processes using R.
- Prescriptive Analytics: Utilize decision-making tools and techniques such as linear programming and simulation to provide prescriptive insights into business operations.
- Business Data Warehousing: Focus on the design, implementation, and maintenance of data warehouses, emphasizing ETL processes and the integration of BI tools for strategic analysis.
+## Core Coursework
+
+### Database Foundations for Business Analytics
+- Explored fundamental and advanced concepts of database design.
+- Focused on both SQL and NoSQL systems used in modern analytics frameworks.
+
+### Business Analytics with R
+- Comprehensive exploration of R for robust data manipulation, statistical analysis, and effective graphical representations tailored for real-world business scenarios.
+
+### Professional Development
+- Focused on developing key professional skills, enhancing leadership, communication, and project management capabilities within the business analytics domain.
+
+### Predictive Analytics for Data Science
+- Mastered techniques for constructing predictive models using statistical algorithms.
+- Applied these techniques for forecasting and optimizing business outcomes.
+
+### Programming for Data Science
+- Gained solid foundations and advanced programming skills in Python and R.
+- Developed sophisticated data science solutions.
+
+### Big Data
+- Learned to handle and process large-scale data using cutting-edge technologies.
+- Focused on platforms like Hadoop and Spark.
+
+### Cloud Computing Fundamentals
+- Comprehensive overview of cloud computing services essential for data storage, management, and computation.
+- Gained practical experience with AWS and Azure.
+
+### Applied Econometrics & Time Series Analysis
+- Developed expertise in econometric and time series methodologies for economic and financial forecasting.
+- Utilized advanced tools like EViews and Stata.
+
+### Advanced Business Analytics with R
+- Engaged with complex data analysis techniques and prescriptive analytics.
+- Solved business problems and enhanced decision-making processes using R.
+
+### Prescriptive Analytics
+- Utilized decision-making tools such as linear programming and simulation.
+- Provided prescriptive insights into business operations.
+
+### Business Data Warehousing
+- Focused on the design, implementation, and maintenance of data warehouses.
+- Emphasized ETL processes and the integration of BI tools for strategic analysis.
 
