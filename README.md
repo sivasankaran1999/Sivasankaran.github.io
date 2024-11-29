@@ -6,15 +6,7 @@
 
 <img src="assets/UTD.jpeg" alt="UTD Logo" height="200">
 
-I am a highly accomplished candidate specializing in Business Intelligence, holding a Master of Science in Business Analytics from The University of Texas at Dallas. My academic journey equipped me with advanced skills in statistics, programming for data science, and machine learning, which I have effectively applied in real-world settings.
-
-As a graduate of the University of Texas at Dallas with a Master’s in Business Analytics, I have built a strong foundation in data analysis, machine learning, and database management. My experience spans across internal auditing, financial services, and software engineering, where I’ve consistently delivered actionable insights that drive business performance.
-
-During my recent internship as an Internal Audit Data Analytics Intern at Velera, I led a project to optimize resource allocation, developing a time tracking system that enhanced project efficiency and balanced team workloads. By creating real-time Power BI dashboards to monitor team utilization, I improved resource distribution by 23%. Additionally, I automated the weekly refresh of team availability data using DAX and M code, ensuring stakeholders had access to timely insights.
-
-In my role as a Software Engineer at Larsen & Toubro Infotech, I demonstrated a strong proficiency in handling data, including executing complex SQL queries and generating accurate reports. My expertise extends to database management systems, particularly IBM DB2, where I have shown my ability to manage and optimize data workflows.
-
-I am proficient in SQL, Python (NumPy, Pandas), and analytical tools such as Power BI, Tableau, MySQL, Python, R. With expertise in data modeling, ETL processes, exploratory data analysis, and data visualization, I am a Microsoft Certified Power BI Data Analyst Associate, dedicated to using my skills to drive innovation and optimize business processes.
+I am a Business Intelligence professional with 3 years of experience, holding a Master’s in Business Analytics from the University of Texas at Dallas. I specialize in data analysis, machine learning, and database management, with expertise in SQL, Python, and analytical tools like Power BI and Tableau. In my recent role as an Internal Audit Data Analytics Intern at Velera, I led a project to optimize resource allocation and improve team efficiency by 23%. I am a **Microsoft Certified Power BI Data Analyst Associate**, passionate about leveraging data to drive business performance and innovation.
 
 # Coursework
 
