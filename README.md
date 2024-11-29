@@ -94,6 +94,8 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Enhanced AtliQ Mart's service capacity by **9%** by analyzing patterns in delivery fulfillment ratios, leading to improvements in metrics like on-time and in-full delivery and overall customer satisfaction.  
 - Identified **27% potential cost savings** during the expansion phase by leveraging data-driven insights to support informed decision-making.  
 
+![Sales Performance Analysis Dashboard](assets/financial.jpeg)
+
 ## Sales Performance Analysis – Brick & Mortar  
 **[Power BI | SQL]**  
 *BI 360, Sales Insights, Profit Analysis | Jun 2023*  
