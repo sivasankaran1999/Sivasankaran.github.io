@@ -1,6 +1,6 @@
 ## Connect
 
-[<img src="assets/linkedin.webp" alt="LinkedIn" width="50">](https://www.linkedin.com/in/sivasankaran-rajasekaran/)
+![UTD Logo](assets/UTD.jpeg){: width="300px" }
 
 # About
 
