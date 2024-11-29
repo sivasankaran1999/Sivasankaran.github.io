@@ -10,7 +10,7 @@ A notable achievement of mine includes streamlining encryption pipelines for maj
 
 # Coursework
 
-![UTD Logo](assets/UTD.jpeg)
+![UTD Logo](assets/coursework.png)
 
 # Educational Journey in Business Analytics
 
