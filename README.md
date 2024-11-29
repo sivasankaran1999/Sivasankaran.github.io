@@ -4,15 +4,13 @@
 
 # About
 
-![UTD Logo](assets/JSOM.png)
-
-I am a Business Intelligence professional with 3 years of experience, holding a Master’s in Business Analytics from the University of Texas at Dallas. I specialize in data analysis, machine learning, and database management, with expertise in SQL, Python, and analytical tools like Power BI and Tableau. In my recent role as an Internal Audit Data Analytics Intern at Velera, I led a project to optimize resource allocation and improve team efficiency by 23%. I am a **Microsoft Certified Power BI Data Analyst Associate**, passionate about leveraging data to drive business performance and innovation.
-
 <p align="center">
  <a href="https://www.linkedin.com/in/sivasankaran-rajasekaran/"><img src="assets/linkedin.webp" alt="LinkedIn" width="50"></a>
 </p>
 
+![UTD Logo](assets/JSOM.png)
 
+I am a Business Intelligence professional with 3 years of experience, holding a Master’s in Business Analytics from the University of Texas at Dallas. I specialize in data analysis, machine learning, and database management, with expertise in SQL, Python, and analytical tools like Power BI and Tableau. In my recent role as an Internal Audit Data Analytics Intern at Velera, I led a project to optimize resource allocation and improve team efficiency by 23%. I am a **Microsoft Certified Power BI Data Analyst Associate**, passionate about leveraging data to drive business performance and innovation.
 
 # Coursework
 
