@@ -153,6 +153,23 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Boosted customer retention by **34%** through actionable insights and targeted improvements in the airline industry.
 
 
+## Skills
+
+### Programming:
+- SQL, Python (NumPy, Pandas, Matplotlib, Scikit-learn), R Studio, SAS
+
+### Analysis Tools:
+- MySQL, Microsoft Excel (Vlookup, Pivot, Advanced Filters), Tableau, Power BI, Jupyter, Visual Studio
+
+### Key Technical Competencies:
+- Exploratory Data Analysis (EDA)
+- Extract, Transform, Load (ETL)
+- Data Quality Assessment
+- Data Modelling
+- Data Regression Techniques
+- Database Designing
+- Data Validation
+- Data Visualization
 
 
 
