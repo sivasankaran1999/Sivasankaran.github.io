@@ -136,6 +136,10 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 - Identified sales catalysts, achieving a **39% reduction in bottlenecks** and a **24% improvement in order accuracy** by strategically implementing KPIs to analyze pizza sales data and derive actionable business insights.
 - Leveraged detailed **time-of-day analytics** for pizza sales to identify peak hours, resulting in a **22% surge in sales** through strategic menu optimization and enhanced customer satisfaction.
+  
+### Interactive Dashboards:
+- [Pizza Sales Insights](https://public.tableau.com/app/profile/sivasankaran.rajasekaran/viz/Pizza_Sales_Insights/Home)
+- [Best & Worst Sellers Analysis](https://public.tableau.com/app/profile/sivasankaran.rajasekaran/viz/Pizza_Sales_Insights/BestWorstSellers)
 
 ---
 
