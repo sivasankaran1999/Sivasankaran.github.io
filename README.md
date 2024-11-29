@@ -1,12 +1,11 @@
 
 
 ![UTD Logo](assets/linkedinbanner.png)
-
-# About
-
 <p align="center">
  <a href="https://www.linkedin.com/in/sivasankaran-rajasekaran/"><img src="assets/linkedin.webp" alt="LinkedIn" width="50"></a>
 </p>
+
+# About
 
 ![UTD Logo](assets/JSOM.png)
 
