@@ -75,6 +75,7 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Designed Power BI visuals, including tabular reports, clustered columns, and dual gauges, to monitor time allocation against a 70% utilization target, improving resource distribution by 23%.  
 - Built an incremental data refresh system in Power BI to update team availability weekly, leveraging DAX measures and M code to automatically display the latest week's data, ensuring timely insights.
 
+![Larsen & Toubro Infotech Logo](assets/LTI.png)
 
 ### Larsen & Toubro Infotech, Chennai, India  
 **Software Engineer – VISA and Mastercard**  
