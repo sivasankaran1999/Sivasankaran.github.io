@@ -64,8 +64,7 @@ My educational journey is built on a foundation of rigorous coursework designed 
 
 ## Professional Experience
 
-![Velera](assets/Velera.png)
-assets/Velera.png
+![Velera Project Screenshot](assets/velera1.jpg)
 
 ### Velera, Dallas, Texas  
 **Data Analytics Intern**  
