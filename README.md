@@ -111,6 +111,13 @@ My educational journey is built on a foundation of rigorous coursework designed 
 - Identified sales catalysts, achieving a **39% reduction in bottlenecks** and a **24% improvement in order accuracy** by strategically implementing KPIs to analyze pizza sales data and derive actionable business insights.  
 - Leveraged detailed time-of-day analytics for pizza sales to identify peak hours, resulting in a **22% surge in sales** through strategic menu optimization and enhanced customer satisfaction.  
 
+## Customer Experience Analytics – Airline Industry  
+
+- Analyzed US airline survey data using advanced statistical and machine learning methods to predict passenger satisfaction and loyalty.  
+- Utilized **K-Nearest Neighbors (KNN)**, **Support Vector Classifier (SVC)**, and **Random Forest** models for predictions, identifying **Random Forest** as the optimal choice with a **96% accuracy** after rigorous model evaluation.  
+- Boosted customer retention by **34%** through actionable insights and targeted improvements in the airline industry.  
+
+
 
 
 
