@@ -1,6 +1,6 @@
 ## Connect with Me
 
-[![LinkedIn](assets/linkedin.webp)](https://www.linkedin.com/in/sivasankaran-rajasekaran/)
+[<img src="assets/linkedin.webp" alt="LinkedIn" width="50">](https://www.linkedin.com/in/sivasankaran-rajasekaran/)
 
 # About
 
